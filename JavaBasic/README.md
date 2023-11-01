@@ -105,7 +105,9 @@ Use the debug controls in the top bar to step over, step into, continue, or stop
 Step 8: Manage Dependencies (if using build tools)
 If you chose Maven or Gradle as your build tool, manage your dependencies in the pom.xml (for Maven) or build.gradle (for Gradle) files.
 
-For Maven:
+
+
+## For Maven:
 Add dependencies in the dependencies section of pom.xml and update the project by running Java: Update Project from the Command Palette.
 For Gradle:
 Add dependencies in the dependencies section of build.gradle and refresh the Gradle project.
