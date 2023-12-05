@@ -1,3 +1,44 @@
+# Java-Essentials
+
+## Basics
+1. Package
+
+2. Class
+
+3. Method
+
+4. Data types: Premitive and Reference
+
+5. Initializing variables
+
+6. Constructor
+
+With arguments Without arguments
+
+7. "static" keyword
+
+Shared between all objects
+
+8. "final" keyword
+
+Assign value only once
+
+9. Constants
+
+10. Enums
+
+An enum is a special "class" that represents a group of constants
+
+11. "return" keyword
+
+12. "this" keyword
+Return class object
+
+13. Strings
+
+14. Data type conversions
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -111,3 +152,20 @@ If you chose Maven or Gradle as your build tool, manage your dependencies in the
 Add dependencies in the dependencies section of pom.xml and update the project by running Java: Update Project from the Command Palette.
 For Gradle:
 Add dependencies in the dependencies section of build.gradle and refresh the Gradle project.
+
+
+# Eclipse
+
+1. Instaling
+2. Created new Java project
+3. Created new package and class in it
+
+
+# About Java
+dataTypes: premitive and referance
+premitive: int, double, char, boolean, long, float, short, byte
+
+class - method
+overloading polimotfism
+
+Полиморфизм
